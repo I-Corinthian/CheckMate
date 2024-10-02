@@ -1,1 +1,3 @@
-# CheckMate
+### CheckMate: WhatsApp Fact-Checker Bot
+
+**CheckMate** is an innovative WhatsApp bot designed to combat misinformation by allowing users to upload videos or images for fact-checking. Utilizing advanced technologies like Whisper for audio transcription, Tesseract for text extraction, and OpenAI for natural language processing, CheckMate extracts claims and verifies them against credible sources through Google Search. Supporting multiple languages, this user-friendly bot empowers individuals to discern factual information before sharing, promoting informed discussions in an age of rapid information dissemination. Join us in the fight against misinformation with CheckMate!
